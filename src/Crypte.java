@@ -47,7 +47,7 @@ public class Crypte {
 	}
 	
 	public Crypte() {
-		message = "BONJOUR";
+		super("BONJOUR");
 	}
 	
 	
